@@ -1,4 +1,4 @@
-# 🧾 Cleanup and Analysis of Health Insurance Company Data
+# 🧾 Cleanup and Analysis of Healthcare Organisation Patient Dataset
 
 ## 📘 Project Overview
 This project demonstrates *data cleaning, transformation, and standardization* of multiple health risk datasets using *IBM SPSS Modeler*. The workflow focuses on improving data quality by resolving inconsistencies, handling missing values, and deriving new analytical fields.
